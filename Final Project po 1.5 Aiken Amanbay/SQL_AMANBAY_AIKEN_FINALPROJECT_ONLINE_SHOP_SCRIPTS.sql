@@ -2,9 +2,6 @@
 -- FINAL PROJECT: ONLINE SHOP DATABASE SCHEMA
 -- Author: Aiken Amanbay
 -- Group: PO-1-24
--- Reference Models: 
---   1. "Final Project Conceptual Model Online Shop Aiken Amanbay.png"
---   2. "Logical Model Final Project Aiken Amanbay-3.png"
 -- 
 -- DATABASE NAME: onlineshop_db
 -- SCHEMA NAME:   onlineshop_schema
